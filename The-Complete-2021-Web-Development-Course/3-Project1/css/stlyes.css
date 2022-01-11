@@ -1,0 +1,21 @@
+#container {
+    width: 800px;
+    border: 1px solid grey;
+    height: 100px;
+    margin: 0 auto; /* easily center things with this */
+}
+
+h1 a {
+    font-size: 50px;
+    font-weight: 100;
+    color: purple;
+    text-decoration: none;
+}
+
+#brand {
+    float: left;
+}
+
+#searchbox {
+    float: right;
+}
